@@ -92,28 +92,3 @@ Contributions are welcome! If you have any suggestions or find any bugs, please 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
----
-
-**Note:**
-
-* Adjust the content of the `README` to accurately reflect your project's specifics (e.g., output structure, dependencies, etc.).
-* If you have any particular instructions or warnings about how the script works or its limitations, include them in the README.
-* Consider adding screenshots or examples to make the README more informative and user-friendly. 
-```
-
-
-**Explanation of Sections:**
-
-* **Title & Description:**  Provides a clear and concise overview of the project.
-* **Features:** Highlights the key functionalities.
-* **Requirements:** Specifies the hardware and software needs.
-* **Usage:** Explains how to clone, install, and run the script.
-* **Performance:** Gives information on the script's speed and potential variations.
-* **Output:** Shows an example of the JSON output structure.
-* **Contributing:** Encourages users to contribute to the project.
-* **License:** Indicates the project's license.
-
-
-I hope this helps! Let me know if you have any other questions or need further modifications to your `README`.
